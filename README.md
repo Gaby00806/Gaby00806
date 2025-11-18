@@ -51,7 +51,8 @@ Soy una desarrolladora Full-Stack para crear aplicaciones web completas que comb
 ## 🌐 Conecta conmigo
 
 - 📧 Email: denice.toledo00@gmail.com
-- 🐙 GitHub: https://github.com/Gaby00806  
+- 🐙 GitHub: https://github.com/Gaby00806
+- 💻 Linkedin: https://www.linkedin.com/in/gabriela-chavez-759562131/
 
 ---
 
