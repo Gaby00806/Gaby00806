@@ -19,7 +19,7 @@ Soy una desarrolladora Full-Stack para crear aplicaciones web completas que comb
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,react,redux,html,css,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,bootstrap,git,github" />
 </p>
 
 ---
